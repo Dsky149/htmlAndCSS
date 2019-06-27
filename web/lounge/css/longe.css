@@ -32,3 +32,7 @@ p.raspberry{
 p.blueberry{
     color: purple;
 }
+
+em{
+    text-decoration: line-through;
+}

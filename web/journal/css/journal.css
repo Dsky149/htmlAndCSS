@@ -9,12 +9,14 @@ body{
     font-family: Verdana,Arial,sans-serif;
 }
 
-/**
-h1
- */
+h1,h2{
+    color: #cc6600;
+    border-bottom: thin dotted #888888;
+}
+
 h1{
     font-family: "Emblema One",sans-serif;
-    font-size: 3.2em;
+    font-size: 2.2em;
 
 }
 
@@ -25,4 +27,8 @@ h2{
 
 blockquote{
     font-style: italic;
+}
+
+em{
+    text-decoration: line-through;
 }
